@@ -1,0 +1,12 @@
+{
+  "name": "com.github.dotnet-state-machine.stateless",
+  "version": "5.1.2",
+  "displayName": "Stateless",
+  "description": "A simple library for creating state machines in C# code",
+  "unity": "2019.4",
+  "type": "library",
+  "author": {
+    "name": "Nicholas Blumhardt",
+    "url": "https://github.com/dotnet-state-machine/stateless"
+  }
+}
